@@ -2,6 +2,8 @@
 class Conversation implements ConversationRequirements {
 
   // Attributes 
+  String transctipt;
+  
 
   /**
    * Constructor 
